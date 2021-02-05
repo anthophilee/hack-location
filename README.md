@@ -1,0 +1,2 @@
+# hack-location
+MY OWN TERMUX TOOL YOU CAN SEE IP ADDRESS INFORMATION THROUGH THIS AMAZING TOOL  FOLLOW ME IN GITHUB FOR MORE  $ pkg update $ pkg upgrade $ pkg install python $ pkg install python2 $ pkg install figlet $ git clone https://github.com/U-danbaiwa/hack-location.git $ cd $ ls $ cd hack-location $ ls $ python hack-location.py choose your option and hack ip address  THANK YOU FOLLOW ME AND SHARE IT
